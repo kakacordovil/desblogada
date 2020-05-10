@@ -1,6 +1,6 @@
 import java.util.*;
 
-puclic class Hello {
+public class Hello {
   public static void main (String [] args) {
 	  String name;
 	  Scanner keyboard = new Scanner(System.in);
