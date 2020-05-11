@@ -5,6 +5,7 @@ support material to git tutorial on Instagram
 
 ## .gitignore
 To create this file on your local repository:
+
 1- create a file:  
 ~ vim .gitignore
 
